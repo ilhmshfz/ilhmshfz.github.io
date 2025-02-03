@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'UTM Care Charity Online Shop (UTMCCOS) is a final year project to replace the current system used by UTM students...',
           imageUrl:
-            'https://github.com/ilhmshahfilzuah/psm_utmccos/blob/main/assets/Logo/Logo.png',
-          link: 'https://github.com/ilhmshfz/psm_utmccos',
+            'https://github.com/ilhmshfz/psm_utmccos/blob/main/assets/Logo/Logo.png',
+          link: 'https://github.com/ilhmshfz/psm_utmccos/blob/main/Short-Paper-Ilham.pdf',
         },
       ],
     },
@@ -145,19 +145,19 @@ const CONFIG = {
   //   },
   // ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: '', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
+  // blog: {
+  //   source: 'dev', // medium | dev
+  //   username: '', // to hide blog section, keep it empty
+  //   limit: 2, // How many articles to display. Max is 10.
+  // },
+  // googleAnalytics: {
+  //   id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+  // },
+  // // Track visitor interaction and behavior. https://www.hotjar.com
+  // hotjar: {
+  //   id: '',
+  //   snippetVersion: 6,
+  // },
   themeConfig: {
     defaultTheme: 'dracula',
 
