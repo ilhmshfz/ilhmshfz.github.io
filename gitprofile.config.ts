@@ -114,8 +114,8 @@ const CONFIG = {
     {
       institution: 'Universiti Teknologi Malaysia (UTM)f',
       degree: 'Bachelor of Computer Science (Software Engineering) with Honours',
-      // from: '2015',
-      grad: 'Graduate 2024',
+      from: 'Graduate',
+      to: '2024',
     },
     // {
     //   institution: 'Institution Name',
