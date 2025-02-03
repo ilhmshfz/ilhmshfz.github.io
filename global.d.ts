@@ -233,8 +233,7 @@ interface Certification {
 interface Education {
   institution?: string;
   degree?: string;
-  from: string;
-  to: string;
+  grad: string;
 }
 
 interface Publication {
