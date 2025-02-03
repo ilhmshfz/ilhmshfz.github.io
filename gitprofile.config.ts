@@ -49,8 +49,8 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ilhamshafilzuah',
-    //twitter: 'arif_szn',
+    linkedin: 'ilhmshfz',
+    twitter: 'ilhmshfz',
     //mastodon: 'arifszn@mastodon.social',
     //researchGate: '',
     //facebook: '',
