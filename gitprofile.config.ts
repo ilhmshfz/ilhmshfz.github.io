@@ -62,7 +62,7 @@ const CONFIG = {
     //dribbble: '',
     //behance: '',
     //medium: 'arifszn',
-    dev: 'ilhmshfz',
+    //dev: 'ilhmshfz',
     //stackoverflow: '', // example: '1/jeff-atwood'
     //skype: '',
     telegram: 'ilhmshfz',
