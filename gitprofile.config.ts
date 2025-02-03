@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -52,41 +52,41 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Ilham Shahfilzuah',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'ilhamshafilzuah',
+    //twitter: 'arif_szn',
+    //mastodon: 'arifszn@mastodon.social',
+    //researchGate: '',
+    //facebook: '',
+    //instagram: '',
+    //reddit: '',
+    //threads: '',
+    //youtube: '', // example: 'pewdiepie'
+    //udemy: '',
+    //dribbble: '',
+    //behance: '',
+    //medium: 'arifszn',
+    dev: 'ilhmshfz',
+    //stackoverflow: '', // example: '1/jeff-atwood'
+    //skype: '',
+    telegram: 'ilhmshfz',
+    //website: 'https://www.arifszn.com',
+    //phone: '',
+    email: 'ilhmshfz@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1bJNE8MDr5Z3ILYR-WWnXA96iqrPtDfNZ/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
+    'JAVA',
     'Laravel',
     'JavaScript',
-    'React.js',
+    'Dart',
     'Node.js',
     'Nest.js',
     'MySQL',
@@ -95,7 +95,7 @@ const CONFIG = {
     'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
+    'HTML',
     'Tailwind',
   ],
   experiences: [
@@ -104,13 +104,6 @@ const CONFIG = {
       position: 'Position',
       from: 'September 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
       companyLink: 'https://example.com',
     },
   ],
@@ -171,7 +164,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
