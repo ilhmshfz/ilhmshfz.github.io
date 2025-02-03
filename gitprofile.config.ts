@@ -92,10 +92,11 @@ const CONFIG = {
     'Microsoft Power BI',
     'Tableau',
     'Microsoft Office',
+    'Selenium',
   ],
   experiences: [
     {
-      company: 'MINDATECH SOLUTION',
+      company: 'MINDATECH SOLUTION Sdn Bhd',
       position: 'Mobile App Dev Intern',
       from: 'September 2023',
       to: 'February 2024',
@@ -112,9 +113,9 @@ const CONFIG = {
   // ],
   educations: [
     {
-      institution: 'Universiti Teknologi Malaysia (UTM)f',
+      institution: 'Universiti Teknologi Malaysia (UTM)',
       degree: 'Bachelor of Computer Science (Software Engineering) with Honours',
-      from: 'Graduate',
+      from: 'Graduated',
       to: '2024',
     },
     // {
