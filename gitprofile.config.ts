@@ -38,7 +38,7 @@ const CONFIG = {
             'UTM Care Charity Online Shop (UTMCCOS) is a final year project to replace the current system used by UTM students...',
           imageUrl:
             'https://i.ibb.co/TDfMkXQk/utmccoslogo.png',
-          link: 'https://drive.google.com/file/d/1P3qNGJw_ParC_ewChUDFnyoBijAoSVqC/view?usp=sharing',
+          link: 'https://drive.google.com/file/d/1nnPlafJGWp9PiT7X6FryBI18I-80Aq3o/view?usp=sharing',
         },
       ],
     },
