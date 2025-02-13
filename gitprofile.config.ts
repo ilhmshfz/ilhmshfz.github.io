@@ -103,14 +103,20 @@ const CONFIG = {
       // companyLink: 'https://example.com',
     },
   ],
-  // certifications: [
-  //   {
-  //     name: 'Lorem ipsum',
-  //     body: 'Lorem ipsum dolor sit amet',
-  //     year: 'March 2022',
-  //     link: 'https://example.com',
-  //   },
-  // ],
+  certifications: [
+    {
+      name: 'Google AI',
+      body: 'Google AI and Prompting Essentials',
+      year: 'February 2025',
+      link: 'https://drive.google.com/file/d/1cUE2Mp9QNWR0rlF5oDEnW8DZ-PCkGzV6/view?usp=sharing',
+    },
+    {
+      name: 'Power BI',
+      body: 'Microsoft Power BI Data Analysis',
+      year: 'January 2025',
+      link: 'https://drive.google.com/file/d/1dHr-NCHo4pn6CQTb4BokvdR19sov5TnL/view?usp=sharing',
+    },
+  ],
   educations: [
     {
       institution: 'Universiti Teknologi Malaysia (UTM)',
